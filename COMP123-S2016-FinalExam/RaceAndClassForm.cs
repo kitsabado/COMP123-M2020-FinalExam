@@ -40,6 +40,11 @@ namespace COMP123_M2020_FinalExam
             RadioButton selectedRace = (RadioButton)sender;
 
             this._selectedRace = selectedRace.Text;
+
+            //Added to automatically add the race to character when radio button is clicked
+            Character character = Program.character;
+
+            character.Race = this._selectedRace;
         }
 
         private void NextButton_Click(object sender, EventArgs e)
