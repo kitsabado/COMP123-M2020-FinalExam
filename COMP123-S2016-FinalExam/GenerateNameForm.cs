@@ -15,7 +15,7 @@ namespace COMP123_M2020_FinalExam
      * 
      * Studen Number        : 301118188
      * 
-     * Date Last Modified   : July 23, 2020
+     * Date Last Modified   : August 21, 2020
      * 
      * Program Description  : This program simulates a lotto game in
      * which the player will be able to select a lotto game then the
@@ -25,7 +25,7 @@ namespace COMP123_M2020_FinalExam
      * Revision History     : 
      * 
      * Date         Author          Revision
-     * 2020-07-23   kitsabado       Created GenerateNames method, edited GenerateNameForm_Load event,
+     * 2020-08-21   kitsabado       Created GenerateNames method, edited GenerateNameForm_Load event,
      *                              edited GenerateButton click event, edited Next button click event
      * 
      * 

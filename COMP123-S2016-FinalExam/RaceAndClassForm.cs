@@ -16,7 +16,7 @@ namespace COMP123_M2020_FinalExam
      * 
      * Studen Number        : 301118188
      * 
-     * Date Last Modified   : July 23, 2020
+     * Date Last Modified   : August 21, 2020
      * 
      * Program Description  : This program simulates a lotto game in
      * which the player will be able to select a lotto game then the
