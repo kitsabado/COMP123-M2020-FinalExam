@@ -10,6 +10,32 @@ using System.Windows.Forms;
 
 namespace COMP123_M2020_FinalExam
 {
+    /****************************************************************************************************
+     * Author               : Kristopher G. Sabado
+     * 
+     * Studen Number        : 301118188
+     * 
+     * Date Last Modified   : July 23, 2020
+     * 
+     * Program Description  : This program simulates a lotto game in
+     * which the player will be able to select a lotto game then the
+     * program will be able to generate lottery tickets with random
+     * numbers inside
+     * 
+     * Revision History     : 
+     * 
+     * Date         Author          Revision
+     * 2020-07-23   kitsabado       Created GenerateNames method, edited GenerateNameForm_Load event,
+     *                              edited GenerateButton click event, edited Next button click event
+     * 
+     * 
+     * <summary>
+     * This is the driver class
+     * </summary>
+     * 
+     * @class Program
+     ***************************************************************************************************/
+
     public partial class GenerateNameForm : Form
     {
         public GenerateNameForm()
